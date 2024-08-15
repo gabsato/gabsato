@@ -4,7 +4,6 @@
 - ⛺ I love taking part in bootcamps and free courses on programming or general IT content
 - 🎮 I like to make small modifications to game codes to have fun and learn
 - 🔍 I'm curious and like to learn about new technologies, tricks, tips and explore new sources of inspiration for my projects through a variety of media.
--
 
 <center>
 
