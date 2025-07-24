@@ -27,10 +27,3 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=Git)
-
-
-<center>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabsato&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-</center>
